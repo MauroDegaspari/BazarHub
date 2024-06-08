@@ -3,7 +3,7 @@ package br.com.project.bazarhub;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import br.com.project.bazarhub.controller.IndexController;
+import br.com.project.bazarhub.api.controller.IndexController;
 
 @SpringBootApplication
 public class BazarhubApplication {
